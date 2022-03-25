@@ -1,4 +1,11 @@
-Obtaining Calibrated Probabilities with Personalized Ranking Models. Wonbin Kweon, SeongKu Kang, and Hwanjo Yu. AAAI 2022 oral presentation (3% accepted).
+# Calibrated Ranking Models (AAAI 2022)
+
+Wonbin Kweon, SeongKu Kang, and Hwanjo Yu. 2022. Obtaining Calibrated Probabilities with Personalized Ranking Models. Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI oral, 3% accepted) \
+
+This is a Pytorch implementation.
+
+Version: \
+pytorch 1.7.0 \
 
 1. we cannot include the pre-processed dataset due to the lack of space.
 Instead, you can run yahooR3.ipynb in /data to pre-process the raw dataset.
