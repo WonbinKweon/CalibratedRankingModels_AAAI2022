@@ -1,6 +1,6 @@
 # Calibrated Ranking Models (AAAI 2022)
 
-Wonbin Kweon, SeongKu Kang, and Hwanjo Yu. 2022. Obtaining Calibrated Probabilities with Personalized Ranking Models. Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI oral, 3% accepted) \
+Wonbin Kweon, SeongKu Kang, and Hwanjo Yu. 2022. Obtaining Calibrated Probabilities with Personalized Ranking Models. Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI oral, 3% accepted). \
 
 This is a Pytorch implementation.
 
